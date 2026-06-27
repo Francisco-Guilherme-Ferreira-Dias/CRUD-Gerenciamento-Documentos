@@ -60,4 +60,4 @@ O que deseja fazer?
 ## 👨‍💻 Autor
 
 **Guilherme Dias**  
-[LinkedIn](https://linkedin.com/in/Guilherme-Dias) • [GitHub](https://github.com/Francisco-Guilherme-Ferreira-Dias)
+[LinkedIn](https://www.linkedin.com/in/guilherme-dias-946b22238/) • [GitHub](https://github.com/Francisco-Guilherme-Ferreira-Dias)
